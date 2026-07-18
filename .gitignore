@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor temp / backup files
+*.swp
+*~
+*.bak
+*.orig
+
+# OS / filesystem noise
+Thumbs.db
+desktop.ini

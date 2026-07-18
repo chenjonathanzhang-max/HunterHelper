@@ -1,0 +1,16 @@
+## Interface: 20506
+## Title: HunterHelper
+## Title-zhCN: 猎人助手
+## Title-zhTW: 獵人助手
+## Notes: Lightweight, high-performance Hunter aspect and spell manager.
+## Notes-zhCN: 轻量高效的猎人守护与法术管理器。
+## Notes-zhTW: 輕量高效的獵人守護與法術管理器。
+## Author: Jonathan Zhang
+## Version: 3.0
+## SavedVariables: HunterHelperDB
+
+Locale.lua
+Data.lua
+Core.lua
+Module.lua
+
