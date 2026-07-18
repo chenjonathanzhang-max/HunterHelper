@@ -4,7 +4,7 @@ Lightweight, high-performance Hunter aspect and spell manager for World of Warcr
 
 ## 简介
 
-HunterHelper 是一个轻量、高效的猎人守护（Aspect）与法术管理器，适用于 **TBC Classic / Wrath Classic（客户端接口 20506）** 周年服。
+HunterHelper 是一个轻量、高效的猎人守护（Aspect）与法术管理器，适用于 **TBC（客户端接口 20506）** 周年服。
 
 - 作者：Jonathan Zhang
 - 版本：3.0
